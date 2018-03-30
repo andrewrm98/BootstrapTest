@@ -1,2 +1,1 @@
-# BootstrapTest
-Cheat sheets for bootstrap
+// Cheat sheet for bootstrap
